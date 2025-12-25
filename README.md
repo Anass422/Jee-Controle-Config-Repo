@@ -38,5 +38,3 @@ config-repo/
 - Order Service: 8005
 - Client API: 8006
 - Frontend: 3000
-
-## 🚀 Utilisation
