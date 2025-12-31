@@ -37,4 +37,8 @@ config-repo/
 - Product Service: 8004
 - Order Service: 8005
 - Client API: 8006
+<<<<<<< HEAD
 - Frontend: 3000
+=======
+- Frontend: 3000
+>>>>>>> f5b73e19f81586dc8248db6963dc9af5bbfa9378
